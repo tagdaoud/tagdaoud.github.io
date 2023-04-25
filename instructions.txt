@@ -1,0 +1,4 @@
+- portfolio ameliorer le design
+- remplir tableau de competence avec projets
+- creer sites pour remplir porfolio
+- rassembler experience projet imprimantes
