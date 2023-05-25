@@ -1,0 +1,193 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+body 
+{
+    font-family: Arial,sans-serif;
+    font-size: 15px;
+}
+
+h1
+{
+    font-family: 'Crete Round', serif;
+    font-size: 45px;
+    color: #444
+}
+
+a
+{
+    text-decoration: none;
+}
+.wrapper
+{
+    width: 940px;
+    margin: 0 auto;
+    padding:0 10px ;
+}
+.orange
+{
+    color: #ff7a00;
+    background-color: #fff
+}/* HEADER */
+
+header 
+{
+    height: 120px; 
+    background-color: #fff;
+}
+header h1
+{
+    float: left;
+    margin-top: 32px;
+    background-color: #fff;
+}
+header nav
+{
+    float: right;   
+    margin-top: 50px;
+}
+header nav ul li
+{
+    float:left;
+    display: inline-block;
+    background-color: #fff;
+}
+header nav ul li a
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+    color: #444;
+    background-color: #fff;
+}
+
+/* Questionnaire */
+
+#vous  {
+    font-size:40px;
+    color: cadetblue;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Crete Round';
+}
+.testIII{
+    font-family: Arial;
+    font-weight: bold;
+    color: #444;
+    text-align: center;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+.testIIII{
+    font-family:Arial; 
+    font-weight: bold;
+    color: #444;
+    text-align: center;
+    margin-top: 20px;
+    text-transform: uppercase
+}
+.remarque{text-align: center;
+          
+}
+.button-3{
+	margin-left:48%;
+	margin-top:10px;
+}
+#tu{
+    font-weight: bold;
+    color: #444;
+    text-align: center;
+    margin-bottom: 10px;
+    text-transform: uppercase
+}
+textarea{
+    padding: 3px;
+    border: 1px solid #444;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px #444 inset;
+    
+}
+input[type="submit"]{
+     color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #02b8dd;
+    border-style: none;
+    border-radius: 5px;
+margin-left:48%;
+    padding: 10px 30px;
+    
+}
+input[type="submit"]:hover{
+	background: #ff7a00;
+	cursor:pointer;
+}
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

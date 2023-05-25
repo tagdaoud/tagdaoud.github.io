@@ -1,0 +1,146 @@
+/* GENERAL */
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body 
+{
+    font-family: Arial,sans-serif;
+    font-size: 15px;
+}
+h1
+{
+    font-family: 'Crete Round', serif;
+    font-size: 45px;
+    color: #444;
+}
+
+p
+{
+    line-height: 20px;
+    color: #777;
+}
+ul
+{
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+    color: #444;
+}
+.wrapper
+{
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.orange
+{
+    color: #ff7a00;
+}
+
+/* HEADER */
+
+header 
+{
+    height: 180px;  
+}
+header h1
+{
+    float: left;
+    margin-top: 32px;
+}
+header nav
+{
+    float: right;   
+    margin-top: 50px;
+}
+header nav ul li
+{
+    float:left;
+    display: inline-block;
+}
+header nav ul li a
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+/* CONTAINT */
+
+#pigame h1{
+    text-align: center;
+    font-weight: bold;
+    
+    
+}
+
+#pigame{
+    border: solid 5px #02b8dd;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px; 
+    width: 1000px;
+
+    margin: 0 15% ;
+}
+.comments{
+   margin: 20px auto 50px auto;
+}
+.try{
+    color: #02b8dd
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
